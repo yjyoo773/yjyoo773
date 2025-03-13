@@ -3,7 +3,7 @@
 
 Hello there! I'm a dedicated full-stack developer fueled by a passion for creating software solutions that make a positive impact on the world. I thrive on continual learning, relishing the opportunity to explore new technologies and engineer innovative solutions to intricate challenges. With a commitment to excellence, I eagerly seek to apply my expertise in software development to drive success in dynamic projects, all while embracing ongoing growth and skill enhancement.
 
-📫 I can be reached [here](mailto:yjoo.eyoo@gmail.com)! 
+📫 I can be reached [here](mailto:yongjooyoo73@gmail.com)! 
 
 ---
 ### Tech and Tools
